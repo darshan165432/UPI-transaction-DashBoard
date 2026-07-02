@@ -32,5 +32,5 @@ An interactive Power BI dashboard built using a Kaggle UPI Transactions dataset 
 -Applied Power Query for data transformation.
 -Created DAX measures for meaningful business insights.
 
-###Demo Picture
+### Demo Picture
 ![Dashboard Preview](https://github.com/darshan165432/UPI-transaction-DashBoard/blob/main/Dashboard%20of%20UPI%20Transaction.png)
