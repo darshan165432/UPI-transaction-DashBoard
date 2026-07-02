@@ -1,18 +1,36 @@
-#UPI Transaction Dashboard
-Developed an interactive UPI Transaction Dashboard using Power BI.
-Used a UPI Transactions dataset sourced from Kaggle.
-Created dynamic and interactive reports for transaction analysis.
-Implemented Slicers to filter data based on multiple categories.
-Used Bookmarks for smooth navigation between dashboard views.
-Added Page Navigators to improve the user experience.
-Designed interactive visualizations including Column Charts and other Power BI visuals.
-Analyzed monthly UPI transaction trends and patterns.
-Performed data cleaning and transformation using Power Query.
-Created DAX measures to calculate key business metrics.
-Built a clean, user-friendly dashboard layout for easy data exploration.
-Provided actionable insights into transaction behavior and payment trends.
-🛠️ Technologies Used
-* Power BI
-* Power Query
-* DAX
-* Kaggle Dataset
+# UPI Transaction Dashboard
+1. Project Title / Headline
+📊 UPI Transaction Dashboard | Interactive Power BI Dashboard for UPI Transaction Analysis
+
+2. Short Description / Purpose
+An interactive Power BI dashboard built using a Kaggle UPI Transactions dataset to analyze transaction trends, user behavior, payment methods, and banking insights. The dashboard provides dynamic filtering and navigation for efficient data exploration.
+
+3. Dataset
+Source: Kaggle
+Dataset: UPI Transactions Dataset
+Contains transaction details such as sender bank, receiver bank, city, payment method, merchant, device type, gender, age group, purpose, and transaction type.
+
+4. Tools & Technologies Used
+Power BI Desktop
+Power Query
+DAX (Data Analysis Expressions)
+Kaggle Dataset
+
+5. Dashboard Features
+Interactive Slicers for dynamic filtering
+Bookmarks for smooth report navigation
+Page Navigators for enhanced user experience
+Monthly transaction trend analysis
+Interactive Column Charts and visualizations
+User-friendly dashboard design
+Dynamic filtering across multiple categories
+
+6. Learning Outcomes
+Built interactive dashboards using Power BI.
+Improved data visualization and storytelling skills.
+Learned to use Bookmarks and Navigators for better user interaction.
+Applied Power Query for data transformation.
+Created DAX measures for meaningful business insights.
+
+Demo Picture
+https://github.com/darshan165432/UPI-transaction-DashBoard/blob/main/Dashboard%20of%20UPI%20Transaction.png
